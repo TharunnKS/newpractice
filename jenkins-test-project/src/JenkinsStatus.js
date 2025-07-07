@@ -26,7 +26,7 @@ function JenkinsStatus() {
         </div>
       </div>
       <p style={{margin: '15px 0 0 0', fontSize: '14px', opacity: '0.9'}}>
-        Automatically deployed by Jenkins CI/CD Pipeline
+        Automatically deployed by Jenkins CI/CD Pipeline testing
       </p>
     </div>
   );
