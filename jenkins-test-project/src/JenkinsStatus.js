@@ -19,7 +19,7 @@ function JenkinsStatus() {
         flexWrap: 'wrap'
       }}>
         <div style={{margin: '5px'}}>
-          <strong>Build 5</strong>
+          <strong>Build 6</strong>
         </div>
         <div style={{margin: '5px'}}>
           <strong>2025-07-05 19:07:30</strong>
